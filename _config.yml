@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Luis Enrique Orozco-Sánchez"
-  pronouns         :  example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Thermal, CA"
   employer         : "Red Brick University"
