@@ -1,5 +1,11 @@
 ---
-
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 Welcome to my website!
 ======
 I am a fourth-year student at California State University, San Bernardino, studying Political Science. Right now, I am in the process of applying for graduate school, while also working as a research assistant for a faculty member. My research interests are political communication, American politics, Mexican politics, immigration policy, and democratic backsliding. When I'm not in class or doing research, I enjoy playing video games with my friends, going on long nature walks, and playing with my cat.
