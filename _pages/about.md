@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Luis' Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Welcome to my website!
 
 🎓 I am an aspiring political science student in my senior year at California State University, San Bernardino.
 
@@ -21,4 +23,4 @@ redirect_from:
 
 📖 Book I am currently reading: The Jakarta Method by Vincent Bevins
 
-#### Thank you for visiting my website! It is still a work in progress; as time passes, more content will be added.
+## Thank you for visiting my website! It is still a work in progress; as time passes, more content will be added.
