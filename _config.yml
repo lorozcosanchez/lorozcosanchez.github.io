@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Luis' Website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Luis Enrique Orozco-Sánchez"
 description              : &description "personal description"
