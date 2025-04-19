@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-A copy of my CV can be found [here] (Curriculum Vitae (1).pdf)
+A copy of my CV can be found [here] (https://drive.google.com/file/d/1P0MUIQVJMPQETrFfIYuADe2gJMYrC26W/view?usp=sharing)!
