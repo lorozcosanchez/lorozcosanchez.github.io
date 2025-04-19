@@ -50,16 +50,16 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "chivas112.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : https://www.instagram.com/Elcompaluisillo/
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/leorozcosanchez/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
