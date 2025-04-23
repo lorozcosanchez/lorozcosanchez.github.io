@@ -11,4 +11,4 @@ A copy of my CV can be found [here](https://drive.google.com/file/d/1qowPJyefeoO
 
 Podrás encontrar una copia de mi currículum [aqui](https://drive.google.com/file/d/1C59VbX_JICOhF0NwfrmdhfMmfPYiyESZ/view?usp=sharing)!
 
-![My Image](lorozcosanchez/images/20230623_135829.jpg "A cool image")
+![My Image](20230623_135829.jpg)
