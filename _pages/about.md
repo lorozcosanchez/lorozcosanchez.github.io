@@ -23,4 +23,4 @@ redirect_from:
 
 📖 Books I am currently reading: The Jakarta Method by Vincent Bevins and Esperanza. La Autobiografía del Papa Francisco (Hope by Pope Francis)
 
-Thank you for visiting my website! It is still a work in progress, and more content will be added as time passes.
+## Thank you for visiting my website! It is still a work in progress, and more content will be added as time passes.
