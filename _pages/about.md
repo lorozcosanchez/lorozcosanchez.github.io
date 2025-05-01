@@ -19,8 +19,8 @@ redirect_from:
 
 👨🏻‍🎓 As of next fall, I will be attending UC Irvine for graduate school. I will be studying with the goal of obtaining a Ph.D in Political Science with a concentration in American politics.
 
-🎮 Outside of academia, I spend my time playing video games, going on nature walks, reading books, and playing with my cat.
+🎮 Outside of academia, I spend my time playing video games, working on cars, cooking, gardening, reading books, and playing with my cat.
 
-📖 Book I am currently reading: The Jakarta Method by Vincent Bevins
+📖 Books I am currently reading: The Jakarta Method by Vincent Bevins and Esperanza. La Autobiografía del Papa Francisco (Hope by Pope Francis)
 
-## Thank you for visiting my website! It is still a work in progress; as time passes, more content will be added.
+Thank you for visiting my website! It is still a work in progress, and more content will be added as time passes.
