@@ -17,7 +17,7 @@ redirect_from:
 
 🔬 My research interests include political communication, American politics, Mexican politics, Chicano history, immigration policy, democratic backsliding, political parties, and economic policy.
 
-👨🏻‍🎓 As of next fall, I will be attending UC Irvine for graduate school. I will be studying with the goal of obtaining a Ph.D in Political Science with a concentration in American politics.
+👨🏻‍🎓 As of this fall, I will be attending UC Irvine for graduate school. I will be studying with the goal of obtaining a Ph.D in Political Science with a concentration in American politics.
 
 🎮 Outside of academia, I spend my time playing video games, working on cars, cooking, gardening, reading books, and playing with my cat.
 
