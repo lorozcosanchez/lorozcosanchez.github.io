@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome to my website!
 
-🎓 I am an aspiring political science student in my senior year at California State University, San Bernardino.
+🎓 I am an aspiring political science student who has recently obtained a bachelor's degree from California State University, San Bernardino.
 
 📚 Recently, I have been working as a research assistant for a faculty member in my department. The focused research topic involves political communication, specifically the effects of social media influencers. As the research is in its initial steps, my role has involved reading relevant scholarly articles and compiling pertinent information into an annotated bibliography.
 
@@ -17,7 +17,7 @@ redirect_from:
 
 🔬 My research interests include political communication, American politics, Mexican politics, Chicano history, immigration policy, democratic backsliding, political parties, and economic policy.
 
-👨🏻‍🎓 As of this fall, I will be attending UC Irvine for graduate school. I will be studying with the goal of obtaining a Ph.D in Political Science with a concentration in American politics.
+👨🏻‍🎓 This fall, I will be attending UC Irvine for graduate school. I will be studying with the goal of obtaining a Ph.D in Political Science with a concentration in American politics.
 
 🎮 Outside of academia, I spend my time playing video games, working on cars, cooking, gardening, reading books, and playing with my cat.
 
