@@ -11,4 +11,4 @@ A copy of my CV can be found [here](https://drive.google.com/file/d/1qowPJyefeoO
 
 Podrás encontrar una copia de mi currículum [aqui](https://drive.google.com/file/d/1C59VbX_JICOhF0NwfrmdhfMmfPYiyESZ/view?usp=sharing)!
 
-<img src="https://github.com/user-attachments/assets/021ca0f1-6167-49f5-99f1-efe869c767dc" width="500" height="250">
+<img src="https://github.com/user-attachments/assets/021ca0f1-6167-49f5-99f1-efe869c767dc" width="500" height="125">
