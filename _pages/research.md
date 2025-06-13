@@ -12,5 +12,3 @@ author_profile: true
 ## Research Interests
 ### Democratic Backsliding
 &nbsp;&nbsp;&nbsp;&nbsp;Democratic backsliding is where leaders take actions that weaken democratic processes and institutions, such as executive aggrandizement, suppressing political parties, undermining elections, increasing militarization, and reducing civil liberties. I have done some work in this area. In one of my projects, I performed an audit on the state of democracy in Bolivia. In this project, I provide an overview of Bolivia's recent electoral history. From there, I audit their government and assign a score out of 10 based on the following factors: electoral decision, participation, policy responsiveness, accountability, and sovereignty. My analysis suggests that the state of democracy in Bolivia is relatively poor, and I propose policies to help restore its democracy. Some future research I would like to conduct is on potential democratic backsliding in Mexico, with a focus on the actions of Mexico's two most recent presidents, Claudia Sheinbaum and Andrés Manuel López Obrador.
-
-### Chicano History/Immigration Policy
