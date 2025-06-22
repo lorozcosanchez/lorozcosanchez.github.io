@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
-A copy of my CV can be found [here](https://drive.google.com/file/d/1qowPJyefeoO-zZ63AS_lg-KuYz_7S-d5/view?usp=sharing)!
+A copy of my CV can be found [here](https://drive.google.com/file/d/1H34ftzIGRhhDB2FntxvjDSqFInzsKdKE/view?usp=sharing)!
 
-Podrás encontrar una copia de mi currículum [aqui](https://drive.google.com/file/d/1C59VbX_JICOhF0NwfrmdhfMmfPYiyESZ/view?usp=sharing)!
+Podrás encontrar una copia de mi currículum [aqui](https://drive.google.com/file/d/1nnNtzE5QfRDrWJk6kugsJp7HRKA2K1VA/view?usp=sharing)!
+
+Last updated: June 2025
