@@ -22,7 +22,7 @@ repository               : "lorozcosanchez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Luis Enrique Orozco-Sánchez"
   pronouns         : "he/him"  
   bio              : "Incoming Ph.D student @ UCI"
